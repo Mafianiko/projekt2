@@ -1,0 +1,157 @@
+body {
+    background-color:rgb(255, 228, 190);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+h1 {
+    color: brown;
+    margin-top: 0;
+    letter-spacing: 2px;
+}
+
+header {
+    background-color: wheat;
+    height: 80px;
+    width: 100%;
+    color: rgb(152, 73, 16);
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    border-bottom: solid 1px darkgoldenrod;
+    position: relative;
+}
+
+#logo {
+    position: absolute;
+    float: left;
+    left: 20px;
+    top: 0;
+}
+
+#napis {
+    text-align: left;
+    padding-left: 150px;
+}
+
+nav {
+    position: absolute;
+    right: 10px;
+    top: 30px;
+}
+
+td {
+    border-left: 1px dotted brown;
+     padding: 0 20px;
+}
+
+.ikonki {
+    height: 30px;
+    width: 30px;
+    opacity: 0.5;
+}
+
+a {
+    color: brown;
+    font-size: large;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(230, 156, 103);
+}
+
+#promocja {
+    height: 850px;
+    width: 35%;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+}
+
+i {
+    color: brown;
+}
+
+#free {
+    height: 85px;
+    width: 85px;
+    opacity: 0.7;
+}
+
+#tresc {
+    height: auto;
+    width: 65%;
+    float: left;
+    background-color: rgb(232, 213, 163);
+    padding-top: 20px;
+}
+
+.kafelek {
+    float: left;
+    height: 330px;
+    width: 180px;
+    padding: 10px;
+    background-color: rgb(248, 248, 248);
+    margin: 50px;
+    opacity: 0.8;
+}
+
+.kafelek:hover {
+    opacity:1;
+}
+
+.okladka, .grafika {
+    height: 250px;
+    width: 180px;
+}
+
+.tytul {
+    font-weight: bold;
+}
+
+.autor {
+    font-weight: 300;
+    font-size: smaller;
+}
+
+#strzala {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    padding: 10px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    border-top: solid 1px darkgoldenrod;
+    color: darkgoldenrod;
+    padding: 10px;
+    line-height: 30px;
+}
+#rejestracja
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.text-light
+{
+  text-decoration: none;
+}
+.srodek
+{
+    height: 500px;
+    width: 100%;
+    text-align:center;
+    background-color: aqua;
+    clear: both;
+}
+#panel
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+
